@@ -1,0 +1,37 @@
+body {
+  padding: 250px 0px;
+  height: 100%;
+  width: 100%;
+  background-color: aquamarine;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+button {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  border-radius: 50% 20% / 10% 40%;
+  padding: 5px;
+  background-color: antiquewhite;
+}
+button:hover {
+  background-color: aqua;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.text-style1 {
+  font-size: 23px;
+  font-style: italic;
+  color: brown;
+}
+.text-style2 {
+  font-size: 23px;
+  font-style: italic;
+  color: green;
+}
+.text-style3 {
+  font-size: 23px;
+  font-style: italic;
+  color: purple;
+}
